@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel Primi Passi</title>
+        <title>Laravel PG 1</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -14,9 +14,9 @@
 
     </head>
     <body class="antialiased w-25 mx-auto pt-5">
-       <h1>Hello Word</h1> 
+       <h1>Laravel PG 1</h1> 
        <div class="mt-5">
-       <a class="btn btn-primary me-3" href="{{ route('pg1') }}">vai a pg 1</a>
+       <a class="btn btn-primary me-3" href="{{ route('home') }}">vai alla home</a>
        <a class="btn btn-primary" href="{{ route('pg2') }}">vai a pg 2</a>
        </div>
     </body>
